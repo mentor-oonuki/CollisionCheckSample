@@ -1,5 +1,7 @@
 # CollisionCheckSample
 
+Cubeが衝突した面を取得します。  
+
 CollisionCheckSample.csを参照してください。  
   
 ・テスト方法  
